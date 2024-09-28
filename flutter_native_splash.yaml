@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#121312"
+  image: Assets/SplashAssets/SplashLogos/MoviesLogo3.png
+  branding: Assets/SplashAssets/SplashBranding/MoviesBranding3.png
+  branding_bottom_padding: 24
+
+
+
+  android_12:
+    color: "#121312"
+    image: Assets/SplashAssets/SplashLogos/MoviesLogo3.png
+    branding: Assets/SplashAssets/SplashBranding/MoviesBranding3.png
+    branding_bottom_padding: 24
